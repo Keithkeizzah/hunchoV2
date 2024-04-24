@@ -1,7 +1,7 @@
 {
-  "name": "Ibrahim-md@1.2.8",
-  "description": "I am Ibrahim-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@ibrahimmdgpt",
-  "logo": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg",
+  "name": "keith-md@1.2.8",
+  "description": "I am Keith-Md Whatsapp'bot deadly😂'Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://youtube.com/@keithkeizzah?si=PviuOaZQHHvAjpxH",
+  "logo": "https://telegra.ph/file/53fbc6bbfff88fd1d621b.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝗠𝗥 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
+      "value": "༆𝐊𝐄𝐈𝐓𝐇 𝐓𝐄𝐂𝐇༒",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗪𝗔𝗕𝗢𝗧"
+      "value": "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/fdeb9bdbfae04a6b62dd4.jpg"
+      "value": "https://telegra.ph/file/24893b7355f6ee0312230.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "𝐊𝐄𝐈𝐓𝐇-𝐓𝐄𝐂𝐇",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value": "𝐊𝐄𝐈𝐓𝐇-𝐓𝐄𝐂𝐇",
       "required": false 
     }
   }, 
