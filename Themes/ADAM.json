@@ -6,7 +6,7 @@
 "LANGCODE": "en", 
 "STRINGS": {    
 "updater": {    
-"UPDATE": "Your bot is already on latest version Buddy",
+"UPDATE": "𝐘𝐨𝐮𝐫 𝐛𝐨𝐭 𝐢𝐬 𝐚𝐥𝐫𝐞𝐚𝐝𝐲 𝐨𝐧 𝐥𝐚𝐭𝐞𝐬𝐭 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐛𝐮𝐝𝐝𝐲",
 "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
 "UPDATED_LOCAL": "Fresh Updates Installed!"
 },     
@@ -40,7 +40,7 @@
 "demote": "This is justice!",
 "antlink": "Link Detected.\n*Good Bye Worthless*",
 "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐁𝐥𝐚𝐜𝐤 𝐀𝐝𝐚𝐦*",
-"mention": " Please mention any user",
+"mention": " 𝐏𝐥𝐞𝐚𝐬𝐞 𝐦𝐞𝐧𝐭𝐢𝐨𝐧 𝐚𝐧𝐲 𝐮𝐬𝐞𝐫 𝐢𝐝𝐢𝐨𝐭",
 "title": "Black Adam",
 "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo",
 "by": "Made by: CitelVoid",
@@ -49,13 +49,13 @@
 "dot": "Hello Pal,I'm almost near about No One.\n Why don't you try -help",
 "couple_male": "I'm sorry i didn't understand for so long",
 "couple_female": "Put everything in your soulders",
-"admin": "This command is only for Admin or owner Keith⚠️!",
-"botAdmin": "Please provide me Admin Role❗",
-"owner": "This command is Only for my Owner Keith⚠️",
-"group": "This feature is only for Group ❗",
-"private": "This feature is only for Private chats.⚠️",
-"bot": "This feature is only for Bot Number.⚠️",
-"wait": "*Processing Your Request* ✅"
+"admin": "𝐓𝐡𝐢𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐚𝐝𝐦𝐢𝐧 𝐊𝐞𝐢𝐭𝐡⚠️!",
+"botAdmin": "𝐏𝐥𝐞𝐚𝐬𝐞 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐦𝐞 𝐚𝐝𝐦𝐢𝐧 𝐫𝐨𝐥𝐞,𝐚𝐬𝐬𝐡𝐨𝐥𝐞❗",
+"owner": "𝐓𝐡𝐢𝐬 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐦𝐲 𝐨𝐰𝐧𝐞𝐫 𝐊𝐞𝐢𝐭𝐡⚠️",
+"group": "𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐠𝐫𝐨𝐮𝐩 𝐢𝐝𝐢𝐨𝐭 ❗",
+"private": "𝐓𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐩𝐫𝐢𝐯𝐚𝐭𝐞 𝐜𝐡𝐚𝐭𝐬.⚠️",
+"bot": "𝐭𝐡𝐢𝐬 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐛𝐨𝐭 𝐧𝐮𝐦𝐛𝐞𝐫.⚠️",
+"wait": "*𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐫𝐞𝐪𝐮𝐞𝐬𝐭* ✅"
 },
 "error": {
 "text": "Task Terminated"
